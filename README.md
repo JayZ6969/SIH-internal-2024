@@ -5,17 +5,11 @@
 This repository contains the code for our project for SIH-2024 (Internal) hackathon
 
 ## Tech Stack
-- **Frontend:**
-  - HTML5
-  - CSS3
-  - JavaScript
-  - React.js
+- **Machine Learning:**
+  - Python
+  - YOLOv5
 - **Tools and Libraries:**
-  - tsParticles - Particles BG
-  - MUI - Navbar
-  - GSAP - Animations
-  - Locomotive - Scrolling
-  - Figma - Design
+  - Google Colab
   - Git
 
 ## Installation
